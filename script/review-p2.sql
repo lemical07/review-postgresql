@@ -148,4 +148,3 @@ INNER JOIN libros l
     ON a.autor_id = l.autor_id
 GROUP BY a.nacionalidad;
 
-
